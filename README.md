@@ -25,8 +25,7 @@ Our solution consists of five specialized microservices working in harmony:
 
 ## 📊 System Screenshots
 
-<details>
-<summary>View Dashboard Screenshots</summary>
+
 
 ![Main Dashboard](screenshot/Screenshot%202025-07-26%20162536.png)
 *Main monitoring dashboard with real-time metrics*
@@ -40,7 +39,6 @@ Our solution consists of five specialized microservices working in harmony:
 ![Configuration Panel](screenshot/Screenshot%202025-07-26%20162836.png)
 *Service configuration and management interface*
 
-</details>
 
 ## 🚀 Quick Start Guide
 
@@ -212,18 +210,7 @@ We welcome contributions! Please follow these steps:
 - Update documentation as needed
 - Ensure code passes linting checks
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙋‍♂️ Support
-
-- **Documentation**: [Wiki](../../wiki)
-- **Issues**: [GitHub Issues](../../issues)
-- **Discussions**: [GitHub Discussions](../../discussions)
-- **Email**: support@yourproject.com
-
----
 
 <p align="center">
   <strong>Built with ❤️ for the blockchain community</strong>
